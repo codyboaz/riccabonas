@@ -6,6 +6,6 @@ This is a website for the Riccabonas Tree and Landscape Business.
 
 This is a project I am working on for a family member using the MEAN Stack.
 
-Written by: Cody Boaz
+Written by: Cody Ryan Boaz
 
 Copyright 6/1/2017
