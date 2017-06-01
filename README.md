@@ -1,10 +1,7 @@
 # Riccabonas Web Site
 
-This is a website for the Riccabonas Tree and Landscape Business
+This is a website for the Riccabonas Tree and Landscape Business.
+
 ## Intro
 
-## Purpose
-
-## Deployment
-
-## How to Contribute
+This is a project I am working on for a family member using the MEAN Stack.
