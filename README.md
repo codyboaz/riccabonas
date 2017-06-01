@@ -8,4 +8,4 @@ This is a project I am working on for a family member using the MEAN Stack.
 
 Written by: Cody Boaz
 
-6/1/2017
+Copyright 6/1/2017
